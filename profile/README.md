@@ -13,7 +13,11 @@
     </a>
 </p>
 
-<h4 align="center">Livecycle adds collaboration tools to any PR/feature-branch preview environment, turning each environment into a collaborative playground..</h4>
+<h5 align="center">
+    
+<a href="https://livecycle.io" target="_blank"><b>Livecycle</b></a> offers a powerful Open Source Command Line Interface (CLI), <a href="https://github.com/livecycle/preevy">Preevy</a>, designed to simplify the process of creating ephemeral preview environments.
+
+</h5>
 
 <br>
 
@@ -29,6 +33,6 @@
 
 <div align="center">
 
-[<kbd> <br> <b> Try Out Livecycle ➜ </b> <br> </kbd>](https://livecycle.io) [<kbd> <br> <b> Try Out Preevy ➜ </b> <br> </kbd>](https://preevy.dev)
+[<kbd> <br> <b> ⭐ Star Preevy Repo ➜ </b> <br> </kbd>](https://github.com/livecycle/preevy) [<kbd> <br> <b> 🚀 Try Out Preevy ➜ </b> <br> </kbd>](https://preevy.dev)
 
 </div>
