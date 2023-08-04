@@ -15,7 +15,7 @@
 
 <h5 align="center">
     
-<a href="https://livecycle.io" target="_blank"><b>Livecycle</b></a> offers a powerful Open Source Command Line Interface (CLI), <a href="https://github.com/livecycle/preevy">Preevy</a>, designed to simplify the process of creating ephemeral preview environments.
+<a href="https://livecycle.io" target="_blank"><b>Livecycle</b></a> offers a powerful Open Source Command Line Interface (CLI) tool, <a href="https://github.com/livecycle/preevy">Preevy</a>, designed to simplify the process of creating ephemeral preview environments.
 
 </h5>
 
