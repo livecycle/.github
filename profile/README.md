@@ -34,6 +34,6 @@
 
 <div align="center">
 
-[<kbd> <br> <b> ⭐ Star and try Out Preevy ➜ </b> <br> </kbd>](https://preevy.dev) [<kbd> <br> <b> 👥 Join our Livecycle Community ➜ </b> <br> </kbd>](https://join.slack.com/t/livecyclecommunity/shared_invite/zt-22w8arcmu-dIs~ZN6ECC93murxXc4PAA)
+[<kbd> <br> <b> ⭐ Star and try Out Preevy ➜ </b> <br> </kbd>](https://preevy.dev) [<kbd> <br> <b> 👥 Join our Livecycle Community ➜ </b> <br> </kbd>](https://community.slack.io)
 
 </div>
