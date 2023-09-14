@@ -28,12 +28,12 @@
   	&nbsp;
    <a href="https://dev.to/livecycle" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white"></a>
   	&nbsp;
-   <a href="https://join.slack.com/t/livecyclecommunity/shared_invite/zt-22w8arcmu-dIs~ZN6ECC93murxXc4PAA" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
+   <a href="https://community.livecycle.io" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"></a>
   	&nbsp;
 </p>
 
 <div align="center">
 
-[<kbd> <br> <b> ⭐ Star and try Out Preevy ➜ </b> <br> </kbd>](https://preevy.dev) [<kbd> <br> <b> 👥 Join our Livecycle Community ➜ </b> <br> </kbd>](https://community.slack.io)
+[<kbd> <br> <b> ⭐ Star and try Out Preevy ➜ </b> <br> </kbd>](https://preevy.dev) [<kbd> <br> <b> 👥 Join our Livecycle Community ➜ </b> <br> </kbd>](https://community.livecycle.io)
 
 </div>
